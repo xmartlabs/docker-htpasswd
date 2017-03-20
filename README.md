@@ -1,6 +1,6 @@
 # htpasswd
 
-##Usage
+## Usage
 
 To generate a password file:
 
